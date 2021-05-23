@@ -7,7 +7,7 @@ public class Test {
 		
 		System.out.println(a+b*10);
 		
-		System.out.println("piyush bondre nagpur, oracle pune");
+		
 	}
 
 }
