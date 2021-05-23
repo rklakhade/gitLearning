@@ -5,7 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		Integer a=5, b=5;
 		
-		System.out.println(a+b*10);
+		System.out.println();
 		
 		
 	}
